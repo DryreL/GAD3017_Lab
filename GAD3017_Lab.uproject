@@ -15,12 +15,13 @@
 			"Name": "AppleARKit",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"IOS"
+				"IOS",
+				"Win64",
+				"Mac"
 			]
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"IOS"
+		"Android"
 	]
 }
